@@ -18,6 +18,19 @@ router.post('/', (req, res) => {
     "en" : {},
     "hi":{}
   };
+  const result = {
+    "en":{
+      "Above Limit": "Above Limit",
+      "ok": ok,
+      "Below Limit" : "Below Limit"
+    },
+    "hi":{
+      "Above Limit": "सीमा से अधिक",
+      "ok":"ठीक है",
+      "Below Limit" : "सीमा से कम"
+    }
+  }
+
   const languages = ["en", "hi"];
   for (const key in requestBody.report) {
     if (requestBody.report.hasOwnProperty(key) && data["en"][key]){
@@ -30,15 +43,15 @@ router.post('/', (req, res) => {
         };
         
         if (paramvalue < reference["Lower Limit"]) {
-          paramobj.result = "below limit";
+          paramobj.result = result[language]["Below Limit"];
           paramobj.effects = data[language][key]["Effects"]["Below Limit"];
           paramobj.causes = data[language][key]["Possible Causes"]["Below Limit"];
           paramobj.preventions = data[language][key]["Preventions"]["Below Limit"];
           
         } else if (paramvalue <= reference["Upper Limit"]) {
-          paramobj.result = "ok";
+          paramobj.result = result[language]["ok"];
         } else 
-        paramobj.result = "above limit";
+        paramobj.result = result[language]["Above Limit"];
         paramobj.effects = data[language][key]["Effects"]["Above Limit"];
         paramobj.causes = data[language][key]["Possible Causes"]["Above Limit"];
         paramobj.preventions = data[language][key]["Preventions"]["Above Limit"];
