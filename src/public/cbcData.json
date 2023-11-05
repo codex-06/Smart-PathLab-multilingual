@@ -1,0 +1,1622 @@
+{"hi":{
+  "White Blood Cell (WBC)": {
+    "What It Is": "सफेद रक्त कणिकाएं शरीर की सुरक्षा बल की तरह होती हैं। वे आपको कीटाणुओं और संक्रमण से बचाने में मदद करती हैं।",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 8.0,
+          "Lower Limit": 3.0
+        },
+        "18-49": {
+          "Upper Limit": 6.0,
+          "Lower Limit": 4.5
+        },
+        "50+": {
+          "Upper Limit": 6.2,
+          "Lower Limit": 4.6
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 8.0,
+          "Lower Limit": 3.0
+        },
+        "18-49": {
+          "Upper Limit": 6.5,
+          "Lower Limit": 4.8
+        },
+        "50+": {
+          "Upper Limit": 6.7,
+          "Lower Limit": 5.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "अपने शरीर के एक बड़े युद्ध की तस्वीर बनाएं। आपको एक संक्रमण हो सकता है, जैसे की सर्दी, या फिर एक सूजन, जैसे की गले की खराश हो सकती है।",
+      "Below Limit":  "यदि आपकी सुरक्षा बल कम हो, तो आपको संक्रमण से आसानी से संक्रमण हो सकता है। आपको थकान और कमजोरी महसूस हो सकती है क्योंकि आपका शरीर सही तरीके से अपनी रक्षा नहीं कर सकता।"
+    },
+    "Possible Causes": {
+      "Above Limit": ["संक्रमण सफेद रक्त कणिकाओं की संख्या में वृद्धि कर सकते हैं। चोटों या बीमारियों की वजह से भी सूजन हो सकती है।"],
+      "Below Limit": ["यदि आपके पास बहुत कम सफेद रक्त कणिकाएं हैं, तो इसका संकेत हो सकता है कि आपका शरीर उन्हें ठीक से नहीं बना रहा है। कुछ दवाएँ इन छोटी सैनिकों की संख्या को कम कर सकती हैं."]
+    },
+    "Preventions": {
+      "Above Limit":  [
+        "हृदय और फेफड़ों की क्षमता को बेहतर बनाने के लिए व्यायाम करें।",
+        "लाल मांस और आयरन से भरपूर आहार कम खाएं।",
+        "आयरन सप्लीमेंट से बचें।",
+        "अपने आप को अच्छी तरह से जल से भरपूर रखें।",
+        "पानी द्रावणिक (पानी की गोलियों) सहित, कॉफी और कैफीन युक्त पेय पदार्थों से बचें, जो आपको निर्जलीकरण कर सकते हैं।",
+        "धूम्रपान बंद करें, खासकर अगर आपको सीओपीडी या पुल्मोनरी फाइब्रोसिस है।",
+        "स्टेरॉयड्स, इरिथ्रोपोएटिन और अन्य परफॉर्मेंस बढ़ाने वाली दवाओं का उपयोग न करें."
+        ],
+      "Below Limit": [
+        "एक स्वस्थ, संतुलित आहार बनाएं।",
+        "अगर आवश्यक हो, दैनिक विटामिन और आयरन सप्लीमेंट लें।",
+        "नियमित रूप से हृदय और फेफड़ों की क्षमता को बेहतर बनाने के लिए व्यायाम करें।",
+        "सिगरेट पीना बंद करें।",
+        "एस्पिरिन से बचें, जो थकान को कम कर सकता है और धीरे से खून की हानि कर सकता है।",
+        "अपनी थायरॉयड दवाएं डॉक्टर के परामर्शानुसार लें,"
+      ]
+    }
+  },
+  "Red Blood Cell (RBC)": {
+    "What It Is": "लाल रक्त कोशिकाएं आपके शरीर के डिलीवरी ट्रक की तरह होती हैं। वे आपके फेफड़ों से आपके शरीर के सभी अलग-अलग हिस्सों में ऑक्सीजन ले जाते हैं, यह सुनिश्चित करते हुए कि प्रत्येक कोशिका को वह ऑक्सीजन मिले जो आपको जीवित रखने के लिए आवश्यक है। आरबीसी काउंट आपके रक्त के नमूने में आरबीसी की कुल संख्या है।",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 4.8,
+          "Lower Limit": 3.9
+        },
+        "18-49": {
+          "Upper Limit": 5.2,
+          "Lower Limit": 4.5
+        },
+        "50+": {
+          "Upper Limit": 5.3,
+          "Lower Limit": 4.6
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 4.8,
+          "Lower Limit": 3.9
+        },
+        "18-49": {
+          "Upper Limit": 5.0,
+          "Lower Limit": 4.2
+        },
+        "50+": {
+          "Upper Limit": 5.1,
+          "Lower Limit": 4.4
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "उच्च आरबीसी काउंट निर्जलीकरण या अन्य स्थितियों का संकेत दे सकते हैं।",
+      "Below Limit": "कम आरबीसी काउंट से एनीमिया और थकान हो सकती है।"
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "निर्जलीकरण",
+        "जन्मजात हृदय रोग",
+        "हृदय गति रुकना",
+        "क्रॉनिक ऑब्सट्रक्टिव पल्मोनरी डिजीज (COPD)",
+        "फुफ्फुसीय फाइब्रोसिस, अक्सर धूम्रपान के कारण",
+        "पॉलीसिथेमिया वेरा, एक अस्थि मज्जा रोग",
+        "प्रदर्शन-बढ़ाने वाली दवाओं का दुरुपयोग जो RBC उत्पादन को उत्तेजित करती हैं, जैसे कि एनाबॉलिक स्टेरॉयड या एरिथ्रोपोइटिन",
+        "गुर्दे की कोशिका कार्सिनोमा, गुर्दे के कैंसर का एक प्रकार",
+        "धूम्रपान"
+        ],
+      "Below Limit":[
+        "गुर्दे की विफलता",
+        "थायरॉयड ग्रंथि की समस्याएं",
+        "रक्तस्राव, चाहे आंतरिक हो या बाहरी",
+        "ल्यूकेमिया, श्वेत रक्त कोशिकाओं के कैंसर का एक प्रकार",
+        "दवा के साइड इफेक्ट्स, जिसमें कीमोथेरेपी भी शामिल है",
+        "मल्टीपल मायलोमा, रक्त प्लाज्मा कोशिकाओं को प्रभावित करने वाला एक प्रकार का कैंसर",
+        "एरिथ्रोपोइटिन की कमी, एक गुर्दे हार्मोन जो आरबीसी वृद्धि को बढ़ावा देता है",
+        "आयरन, फोलेट, विटामिन बी12 या विटामिन बी6 की कमी",
+        "रक्तगुच्छिका विघटन, लाल रक्त कोशिकाओं का असामान्य टूटना",
+        "गर्भावस्था"
+        ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        [
+          "अपने हृदय और फेफड़ों की कार्यक्षमता में सुधार के लिए व्यायाम करें।",
+          "कम लाल मांस और आयरन युक्त खाद्य पदार्थ खाएं।",
+          "आयरन की खुराक से बचें।",
+          "अपने आप को अच्छी तरह हाइड्रेटेड रखें।",
+          "मूत्रवर्धक (जल की गोलियां) से बचें, जिनमें कॉफी और कैफीनयुक्त पेय शामिल हैं, जो आपको डिहाइड्रेट कर सकते हैं।",
+          "धूम्रपान बंद करो, खासकर अगर आपको सीओपीडी या फुफ्फुसीय फाइब्रोसिस है।",
+          "स्टेरॉयड, एरिथ्रोपोइटिन और अन्य प्रदर्शन-बढ़ाने वाली दवाओं के उपयोग से बचें।"
+          ]
+      ],
+      "Below Limit": [
+        "स्वस्थ, संतुलित आहार बनाए रखना।",
+        "आवश्यक होने पर प्रतिदिन विटामिन और आयरन की खुराक लेना।",
+        "हृदय और फेफड़ों की कार्यक्षमता में सुधार के लिए नियमित रूप से व्यायाम करना।",
+        "धूम्रपान छोड़ना।",
+        "एस्पिरिन से बचना, जो थक्के को कम करता है और धीमी रक्त हानि का कारण बन सकता है।",
+        "यदि आपको थायराइड की समस्या है तो अपने थायराइड की दवाएं निर्धारित अनुसार लेना।"
+        ]
+    }
+  },
+  "Hemoglobin (Hb)": {
+    "What It Is": "हीमोग्लोबिन आरबीसी को आपके शरीर की कोशिकाओं तक ऑक्सीजन ले जाने में मदद करता है।",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "18-49": {
+          "Upper Limit": 17.5,
+          "Lower Limit": 13.5
+        },
+        "50+": {
+          "Upper Limit": 17.0,
+          "Lower Limit": 13.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "18-49": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.5
+        },
+        "50+": {
+          "Upper Limit": 16.5,
+          "Lower Limit": 12.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "उच्च हीमोग्लोबिन निर्जलीकरण या अन्य स्थितियों का संकेत दे सकता है।",
+      "Below Limit": "कम हीमोग्लोबिन से एनीमिया और थकान हो सकती है।"
+    },
+    "Possible Causes": {
+      "Above Limit":[
+        "पॉलीसिथेमिया वेरा (PV)एक दुर्लभ अस्थि मज्जा विकार जिसमें शरीर बहुत अधिक लाल रक्त कोशिकाएं पैदा करता है",
+        "जन्मजात हृदय दोष",
+        "उच्च ऊंचाई पर रहना",
+        "निर्जलीकरण",
+        "धूम्रपान तंबाकू",
+        "अज्ञात कारण का एरिथ्रोसाइटोसिस",
+        "कुछ कैंसर, जैसे कि गुर्दे और यकृत के कैंसर"
+        ],
+      "Below Limit":[
+        "आयरन की कमी से होने वाला एनीमिया",
+        "विटामिन की कमी से होने वाला एनीमिया (जैसे: विटामिन बी12 या फोलेट)",
+        "रक्तगुच्छिका विघटन",
+        "रक्तस्राव (तीव्र रक्त हानि)",
+        "खराब पोषण, विशेष रूप से आयरन और विटामिन जैसे आवश्यक पोषक तत्वों का कम सेवन",
+        "कुछ दवाएं, जिनमें कीमोथेरेपी दवाएं शामिल हैं",
+        "क्रोनिक किडनी रोग"
+        ]
+    },
+    "Preventions": {
+      "Above Limit":[
+        "Avoid Smoking",
+        "Adequate Hydration",
+        "Control Chronic Conditions",
+        "Schedule regular checkups with your healthcare provider to monitor your blood counts.",
+        "Participate in recommended cancer screenings",
+        "Maintain a healthy lifestyle that includes a well-balanced diet, regular exercise, and adequate sleep to support overall health.",
+        "If you are prescribed medications that can stimulate red blood cell production (e.g., androgens), work closely with your healthcare provider to manage these medications."
+      ],
+      "Below Limit":[
+        "Consume a diet rich in iron",
+        "Include foods rich in vitamin B12 and folates",
+        "Schedule regular checkups",
+        "Avoid Excessive Alcohol and Drug Use",
+        "Minimize exposure to environmental toxins and hazardous materials ",
+        "If you have a family history of inherited anemias, consider genetic counseling"]
+    }
+  },  
+  "Hematocrit (HCT)": {
+    "What It Is": "Hematocrit measures the percentage of blood volume made up of Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 42.0,
+          "Lower Limit": 32.0
+        },
+        "18-49": {
+          "Upper Limit": 50.0,
+          "Lower Limit": 38.3
+        },
+        "50+": {
+          "Upper Limit": 49.4,
+          "Lower Limit": 36.4
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 42.0,
+          "Lower Limit": 32.0
+        },
+        "18-49": {
+          "Upper Limit": 44.3,
+          "Lower Limit": 36.1
+        },
+        "50+": {
+          "Upper Limit": 44.6,
+          "Lower Limit": 35.9
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": ["High hematocrit may suggest dehydration or other conditions."],
+      "Below Limit": "Low hematocrit can lead to anemia and fatigue."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Polycythemia vera (bone marrow disorder)",
+        "Secondary polycythemia (e.g., due to chronic hypoxia or kidney tumors)",
+        "Congenital heart disease",
+        "Lung diseases (e.g., chronic obstructive pulmonary disease)",
+        "Smoking",
+        "High-altitude living",
+        "Medications (e.g., androgens)",
+        "Dehydration",
+        "Certain cancers (e.g., kidney and liver cancers)",
+        "Unknown causes (idiopathic erythrocytosis)"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Vitamin-deficiency anemias (e.g., vitamin B12 or folate deficiency)",
+        "Chronic diseases and inflammation",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Bone marrow disorders",
+        "Hemorrhage (acute blood loss)",
+        "Chronic kidney disease",
+        "Inherited blood disorders (e.g., thalassemia)",
+        "Medications (e.g., chemotherapy drugs)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Quit smoking to prevent tobacco-related polycythemia.",
+        "Maintain proper hydration.",
+        "Control chronic diseases and inflammation.",
+        "Be aware of adaptive polycythemia at high altitudes.",
+        "Regular health checkups to monitor overall health.",
+        "Manage medication side effects under healthcare provider guidance.",
+        "Participate in recommended cancer screenings.",
+        "Healthy lifestyle choices.",
+        "Consult with a healthcare provider for idiopathic erythrocytosis."
+              ],
+      "Below Limit": [
+        "Maintain an iron-rich diet.",
+        "Consume foods high in vitamin B12 and folate.",
+        "Manage chronic medical conditions.",
+       " Practice safe measures to prevent injury and acute blood loss.",
+        "Undergo regular health checkups for early detection and management.",
+        "Avoid excessive alcohol and drug use.",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Follow prenatal care recommendations during pregnancy."
+      ]
+    }  
+  },
+  "Mean Cell Volume (MCV)": {
+    "What It Is": "MCV measures the average volume of your Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 86.0,
+          "Lower Limit": 74.0
+        },
+        "18-49": {
+          "Upper Limit": 99.0,
+          "Lower Limit": 80.0
+        },
+        "50+": {
+          "Upper Limit": 99.2,
+          "Lower Limit": 80.1
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 86.0,
+          "Lower Limit": 74.0
+        },
+        "18-49": {
+          "Upper Limit": 99.5,
+          "Lower Limit": 80.0
+        },
+        "50+": {
+          "Upper Limit": 99.6,
+          "Lower Limit": 80.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCV may be due to certain health conditions.",
+      "Below Limit": "Low MCV can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Chronic alcohol use",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Myelodysplastic syndromes (bone marrow disorders)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Thalassemia (a genetic blood disorder)",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Lead poisoning",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ] 
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCV under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies.",
+        "Follow treatment recommendations for megaloblastic anemias."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Mean Cell Hemoglobin (MCH)": {
+    "What It Is": "MCH measures the amount of hemoglobin in an individual Red Blood Cell (RBC).",
+    "Reference Values":{
+      "males": {
+        "children": {
+          "0-17": {
+            "Upper Limit": 30.0,
+            "Lower Limit": 25.0
+          }
+        },
+        "18-49": {
+          "Upper Limit": 33.0,
+          "Lower Limit": 27.0
+        },
+        "50+": {
+          "Upper Limit": 33.5,
+          "Lower Limit": 27.0
+        }
+      },
+      "females": {
+        "children": {
+          "0-17": {
+            "Upper Limit": 30.0,
+            "Lower Limit": 25.0
+          }
+        },
+        "18-49": {
+          "Upper Limit": 33.5,
+          "Lower Limit": 27.0
+        },
+        "50+": {
+          "Upper Limit": 34.0,
+          "Lower Limit": 27.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCH may be related to health conditions.",
+      "Below Limit": "Low MCH can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Alcohol use disorder",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Hereditary spherocytosis (a genetic disorder)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Smoking",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Lead poisoning",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Thalassemia (a genetic blood disorder)",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
+        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
+        "Quit smoking to prevent the effects of smoking on MCH."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Mean Cell Hemoglobin Concentration (MCHC)": {
+    "What It Is": "MCHC measures the concentration of hemoglobin in Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 34.5,
+          "Lower Limit": 30.5
+        },
+        "18-49": {
+          "Upper Limit": 35.5,
+          "Lower Limit": 31.5
+        },
+        "50+": {
+          "Upper Limit": 35.8,
+          "Lower Limit": 31.8
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 34.5,
+          "Lower Limit": 30.5
+        },
+        "18-49": {
+          "Upper Limit": 35.5,
+          "Lower Limit": 31.5
+        },
+        "50+": {
+          "Upper Limit": 36.0,
+          "Lower Limit": 32.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCHC may be associated with health conditions.",
+      "Below Limit": "Low MCHC can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Alcohol use disorder",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Hereditary spherocytosis (a genetic disorder)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Smoking",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Lead poisoning",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Thalassemia (a genetic blood disorder)",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
+        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
+        "Quit smoking to prevent the effects of smoking on MCH."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Red Cell Distribution Width (RDW)": {
+    "What It Is": "RDW measures the variation in the size of Red Blood Cells (RBCs).",
+    "Reference Values":  {
+      "males": {
+        "0-17": {
+          "Upper Limit": 14.5,
+          "Lower Limit": 10.5
+        },
+        "18-49": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "50+": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 14.5,
+          "Lower Limit": 10.5
+        },
+        "18-49": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "50+": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High RDW can indicate various health conditions.",
+      "Below Limit": "Low RDW is not typically a concern."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Nutritional deficiencies, such as iron, vitamin B12, or folate deficiency",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Chronic inflammation or chronic diseases",
+        "Certain genetic conditions affecting red blood cells",
+        "Bone marrow disorders",
+        "Certain medications and chemotherapies",
+        "Megaloblastic anemias",
+        "Thalassemia and hemoglobinopathies",
+        "Sickle cell anemia and other hemoglobin disorders",
+        "Hemorrhage (acute blood loss)"
+      ],
+      "Below Limit": [
+        "Nutritional deficiencies, particularly iron deficiency",
+        "Thalassemia or other hemoglobinopathies",
+        "Chronic diseases, such as chronic inflammation",
+        "Certain genetic conditions affecting red blood cells",
+        "Hemolytic anemias, characterized by premature red blood cell destruction",
+        "Bone marrow disorders",
+        "Medications that suppress red blood cell production",
+        "Leukemia and other blood cancers",
+        "Lead poisoning",
+        "Hemorrhage (acute blood loss)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
+        "Manage and treat underlying conditions effectively, especially chronic inflammation.",
+        "Monitor and manage medications that can lead to high RDW under healthcare provider guidance.",
+        "Regular health checkups to monitor overall health and detect nutritional deficiencies",
+        "Follow treatment recommendations for anemias, including megaloblastic anemias and hemoglobin disorders",
+        "Take safety measures to prevent accidents and injuries."
+      ],
+      "Below Limit":[
+        "Maintain a well-balanced diet to prevent nutritional deficiencies.",
+        "Manage and treat chronic medical conditions effectively",
+        "Avoid exposure to lead and environmental toxins.",
+        "Follow safety measures to prevent accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited blood disorders",
+        "Medication management under healthcare provider guidance."
+      ]
+    }
+  },
+  "Platelet Count": {
+    "What It Is": "Platelets help with blood clotting.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 450.0,
+          "Lower Limit": 300.0
+        },
+        "18-49": {
+          "Upper Limit": 350.0,
+          "Lower Limit": 150.0
+        },
+        "50+": {
+          "Upper Limit": 370.0,
+          "Lower Limit": 160.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 450.0,
+          "Lower Limit": 300.0
+        },
+        "18-49": {
+          "Upper Limit": 350.0,
+          "Lower Limit": 150.0
+        },
+        "50+": {
+          "Upper Limit": 370.0,
+          "Lower Limit": 160.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High platelet counts may increase the risk of blood clots.",
+      "Below Limit": "Low platelet counts can lead to bleeding issues."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Essential thrombocythemia (a bone marrow disorder)",
+        "Reactive thrombocytosis due to infections, inflammation, or surgery",
+        "Iron-deficiency anemia",
+        "Chronic myeloid leukemia",
+        "Polycythemia vera",
+        "Medications (e.g., steroids or epinephrine)",
+        "Splenectomy (removal of the spleen)",
+        "Inflammatory disorders (e.g., rheumatoid arthritis)",
+        "Myeloproliferative neoplasms",
+        "Hemorrhage or blood loss"
+      ],
+      "Below Limit": [
+        "Bone marrow disorders (e.g., aplastic anemia)",
+        "Leukemia and other blood cancers",
+        "Viral infections (e.g., HIV)",
+        "Chemotherapy and radiation therapy",
+        "Medications (e.g., certain antibiotics or anticonvulsants)",
+        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
+        "Liver disease (cirrhosis)",
+        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
+        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
+        "Certain infections (e.g., hepatitis C)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
+        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
+        "Seek treatment for inflammatory disorders.",
+        "Prevent infections and follow post-surgical care recommendations.",
+        "Regular health checkups to monitor overall health.",
+        "Genetic counseling for inherited blood disorders.",
+        "Follow safety measures to prevent excessive bleeding.",
+        "Control iron-deficiency anemia and maintain a well-balanced diet."
+      ],
+      "Below Limit": [
+        "Minimize exposure to infectious agents that may cause viral infections.",
+        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
+        "Maintain a well-balanced diet and address nutritional deficiencies",
+        "Seek treatment for autoimmune disorders and underlying medical conditions.",
+        "Follow safety measures to prevent injuries that could lead to bleeding",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited platelet disorders.",
+        "Avoid excessive alcohol consumption, as it can affect platelet function."
+      ]
+    }
+  },
+  "Mean Platelet Volume (MPV)": {
+    "What It Is": "MPV measures the average size of platelets in your blood.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 11.5,
+          "Lower Limit": 7.0
+        },
+        "18-49": {
+          "Upper Limit": 12.0,
+          "Lower Limit": 7.0
+        },
+        "50+": {
+          "Upper Limit": 12.2,
+          "Lower Limit": 7.2
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 11.5,
+          "Lower Limit": 7.0
+        },
+        "18-49": {
+          "Upper Limit": 12.0,
+          "Lower Limit": 7.0
+        },
+        "50+": {
+          "Upper Limit": 12.2,
+          "Lower Limit": 7.2
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MPV may indicate inflammation or bone marrow disorders.",
+      "Below Limit": "Low MPV is not typically a concern."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Essential thrombocythemia (a bone marrow disorder)",
+        "Reactive thrombocytosis due to infections, inflammation, or surgery",
+        "Iron-deficiency anemia",
+        "Chronic myeloid leukemia",
+        "Polycythemia vera",
+        "Medications (e.g., steroids or epinephrine)",
+        "Splenectomy (removal of the spleen)",
+        "Inflammatory disorders (e.g., rheumatoid arthritis)",
+        "Myeloproliferative neoplasms",
+        "Hemorrhage or blood loss"
+      ],
+      "Below Limit": [
+        "Bone marrow disorders (e.g., aplastic anemia)",
+        "Leukemia and other blood cancers",
+        "Viral infections (e.g., HIV)",
+        "Chemotherapy and radiation therapy",
+        "Medications (e.g., certain antibiotics or anticonvulsants)",
+        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
+        "Liver disease (cirrhosis)",
+        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
+        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
+        "Certain infections (e.g., hepatitis C)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
+        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
+        "Seek treatment for inflammatory disorders.",
+        "Prevent infections and follow post-surgical care recommendations.",
+        "Regular health checkups to monitor overall health.",
+        "Genetic counseling for inherited blood disorders.",
+        "Follow safety measures to prevent excessive bleeding.",
+        "Control iron-deficiency anemia and maintain a well-balanced diet."
+      ],
+      "Below Limit": [
+        "Minimize exposure to infectious agents that may cause viral infections.",
+        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
+        "Maintain a well-balanced diet and address nutritional deficiencies",
+        "Seek treatment for autoimmune disorders and underlying medical conditions.",
+        "Follow safety measures to prevent injuries that could lead to bleeding",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited platelet disorders.",
+        "Avoid excessive alcohol consumption, as it can affect platelet function."
+      ]
+    }
+  }
+},
+"en" :{
+  "White Blood Cell (WBC)": {
+    "What It Is": "White blood cells are like the body's security force. They help protect you from germs and infections.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 8.0,
+          "Lower Limit": 3.0
+        },
+        "18-49": {
+          "Upper Limit": 6.0,
+          "Lower Limit": 4.5
+        },
+        "50+": {
+          "Upper Limit": 6.2,
+          "Lower Limit": 4.6
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 8.0,
+          "Lower Limit": 3.0
+        },
+        "18-49": {
+          "Upper Limit": 6.5,
+          "Lower Limit": 4.8
+        },
+        "50+": {
+          "Upper Limit": 6.7,
+          "Lower Limit": 5.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "Imagine your body is fighting a big battle. You might have an infection, like a cold, or an inflammation, like a sore throat.",
+      "Below Limit": "If your security force is understaffed, you could catch infections more easily. You might feel tired and weak because your body can't defend itself properly."
+    },
+    "Possible Causes": {
+      "Above Limit": ["Infections can cause the number of white blood cells to increase. So can inflammation from injuries or illnesses."],
+      "Below Limit": ["If you have too few white blood cells, it could be a sign that your body isn't making them properly. Some medications can also reduce the number of these little soldiers."]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Exercise to improve your heart and lung function.",
+        "Eat less red meat and iron-rich foods.",
+        "Avoid iron supplements.",
+        "Keep yourself well hydrated.",
+        "Avoid diuretics(water pills), including coffee and caffeinated drinks, which can dehydrate you.",
+        "Stop smoking, especially if you have COPD or pulmonary fibrosis.",
+        "Avoid the use of steroids, erythropoietin, and other performance-enhancing drugs."
+
+      ],
+      "Below Limit": [
+        "Maintaining a healthy, balanced diet.",
+        "Taking a daily vitamin and iron supplement, if needed.",
+        "Exercising regularly to improve heart and lung function.",
+        "Quitting smoking.",
+        "Avoiding aspirin, which reduces clotting and can cause slow blood loss.",
+        "Taking your thyroid medications as prescribed if you have thyroid problems."
+      ]
+    }
+  },
+  "Red Blood Cell (RBC)": {
+    "What It Is": ["Red blood cells are like your body's delivery trucks. They carry oxygen from your lungs to all the different parts of your body, making sure every cell gets the oxygen it needs to keep you alive.",
+    "RBC count is the total number of RBCs in your blood sample."
+  ],
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 4.8,
+          "Lower Limit": 3.9
+        },
+        "18-49": {
+          "Upper Limit": 5.2,
+          "Lower Limit": 4.5
+        },
+        "50+": {
+          "Upper Limit": 5.3,
+          "Lower Limit": 4.6
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 4.8,
+          "Lower Limit": 3.9
+        },
+        "18-49": {
+          "Upper Limit": 5.0,
+          "Lower Limit": 4.2
+        },
+        "50+": {
+          "Upper Limit": 5.1,
+          "Lower Limit": 4.4
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High RBC counts may indicate dehydration or other conditions.",
+      "Below Limit": "Low RBC counts can lead to anemia and fatigue."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Dehydration",
+        "Congenital heart disease",
+        "Heart failure",
+        "Chronic obstructive pulmonary disease (COPD)",
+        "Pulmonary fibrosis, often due to smoking",
+        "Polycythemia vera, a bone marrow disease",
+        "Misuse of performance-enhancing drugs that stimulate RBC production, such as anabolic steroids or erythropoietin",
+        "Renal cell carcinoma, a type of kidney cancer",
+        "Smoking"
+      ],
+      "Below Limit":[
+       " Kidney failure",
+        "Thyroid problems",
+        "Bleeding, either internal or external",
+        "Leukemia, a type of cancer of white blood cells",
+        "Drug side effects, including chemotherapy",
+        "Multiple myeloma, a type of cancer affecting blood plasma cells",
+        "Deficiency of erythropoietin, a kidney hormone that promotes RBC growth",
+        "Deficiencies in iron, folate, vitamin B12, or vitamin B6",
+        "Hemolysis, the abnormal breakdown of red blood cells",
+        "Pregnancy"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Exercise to improve your heart and lung function.",
+        "Eat less red meat and iron-rich foods.",
+        "Avoid iron supplements.",
+        "Keep yourself well hydrated.",
+        "Avoid diuretics(water pills), including coffee and caffeinated drinks, which can dehydrate you.",
+        "Stop smoking, especially if you have COPD or pulmonary fibrosis.",
+        "Avoid the use of steroids, erythropoietin, and other performance-enhancing drugs."
+
+      ],
+      "Below Limit": [
+        "Maintaining a healthy, balanced diet.",
+        "Taking a daily vitamin and iron supplement, if needed.",
+        "Exercising regularly to improve heart and lung function.",
+        "Quitting smoking.",
+        "Avoiding aspirin, which reduces clotting and can cause slow blood loss.",
+        "Taking your thyroid medications as prescribed if you have thyroid problems."
+      ]
+    }
+  },
+  "Hemoglobin (Hb)": {
+    "What It Is": "Hemoglobin helps RBCs carry oxygen to your body's cells.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "18-49": {
+          "Upper Limit": 17.5,
+          "Lower Limit": 13.5
+        },
+        "50+": {
+          "Upper Limit": 17.0,
+          "Lower Limit": 13.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "18-49": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.5
+        },
+        "50+": {
+          "Upper Limit": 16.5,
+          "Lower Limit": 12.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High hemoglobin may indicate dehydration or other conditions.",
+      "Below Limit": "Low hemoglobin can lead to anemia and fatigue."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Polycythemia Vera (PV),a rare bone marrow disorder in which the body produces too many red blood cells",
+        "congenital heart defects can cause chronic low oxygen levels",
+        "High Altitude Living",
+        "Dehydration",
+        "Smoking tobacco",
+        "Erythrocytosis of Unknown Cause",
+        "Certain cancers, such as kidney and liver cancers"
+      ],
+      "Below Limit":[
+        "Iron-Deficiency Anemia",
+        "Vitamin Deficiency Anemias(eg: VitaminB12 or Folate)",
+        "Hemolysis",
+        "Hemorrhage (Acute Blood Loss)",
+        "Poor nutrition, especially low intake of essential nutrients like iron and vitamins",
+        "Certain medications, including chemotherapy drugs",
+        "Chronic Kidney Disease"
+      ]
+    },
+    "Preventions": {
+      "Above Limit":[
+        "Avoid Smoking",
+        "Adequate Hydration",
+        "Control Chronic Conditions",
+        "Schedule regular checkups with your healthcare provider to monitor your blood counts.",
+        "Participate in recommended cancer screenings",
+        "Maintain a healthy lifestyle that includes a well-balanced diet, regular exercise, and adequate sleep to support overall health.",
+        "If you are prescribed medications that can stimulate red blood cell production (e.g., androgens), work closely with your healthcare provider to manage these medications."
+      ],
+      "Below Limit":[
+        "Consume a diet rich in iron",
+        "Include foods rich in vitamin B12 and folates",
+        "Schedule regular checkups",
+        "Avoid Excessive Alcohol and Drug Use",
+        "Minimize exposure to environmental toxins and hazardous materials ",
+        "If you have a family history of inherited anemias, consider genetic counseling"]
+    }
+  },  
+  "Hematocrit (HCT)": {
+    "What It Is": "Hematocrit measures the percentage of blood volume made up of Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 42.0,
+          "Lower Limit": 32.0
+        },
+        "18-49": {
+          "Upper Limit": 50.0,
+          "Lower Limit": 38.3
+        },
+        "50+": {
+          "Upper Limit": 49.4,
+          "Lower Limit": 36.4
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 42.0,
+          "Lower Limit": 32.0
+        },
+        "18-49": {
+          "Upper Limit": 44.3,
+          "Lower Limit": 36.1
+        },
+        "50+": {
+          "Upper Limit": 44.6,
+          "Lower Limit": 35.9
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": ["High hematocrit may suggest dehydration or other conditions."],
+      "Below Limit": "Low hematocrit can lead to anemia and fatigue."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Polycythemia vera (bone marrow disorder)",
+        "Secondary polycythemia (e.g., due to chronic hypoxia or kidney tumors)",
+        "Congenital heart disease",
+        "Lung diseases (e.g., chronic obstructive pulmonary disease)",
+        "Smoking",
+        "High-altitude living",
+        "Medications (e.g., androgens)",
+        "Dehydration",
+        "Certain cancers (e.g., kidney and liver cancers)",
+        "Unknown causes (idiopathic erythrocytosis)"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Vitamin-deficiency anemias (e.g., vitamin B12 or folate deficiency)",
+        "Chronic diseases and inflammation",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Bone marrow disorders",
+        "Hemorrhage (acute blood loss)",
+        "Chronic kidney disease",
+        "Inherited blood disorders (e.g., thalassemia)",
+        "Medications (e.g., chemotherapy drugs)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Quit smoking to prevent tobacco-related polycythemia.",
+        "Maintain proper hydration.",
+        "Control chronic diseases and inflammation.",
+        "Be aware of adaptive polycythemia at high altitudes.",
+        "Regular health checkups to monitor overall health.",
+        "Manage medication side effects under healthcare provider guidance.",
+        "Participate in recommended cancer screenings.",
+        "Healthy lifestyle choices.",
+        "Consult with a healthcare provider for idiopathic erythrocytosis."
+              ],
+      "Below Limit": [
+        "Maintain an iron-rich diet.",
+        "Consume foods high in vitamin B12 and folate.",
+        "Manage chronic medical conditions.",
+       " Practice safe measures to prevent injury and acute blood loss.",
+        "Undergo regular health checkups for early detection and management.",
+        "Avoid excessive alcohol and drug use.",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Follow prenatal care recommendations during pregnancy."
+      ]
+    }  
+  },
+  "Mean Cell Volume (MCV)": {
+    "What It Is": "MCV measures the average volume of your Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 86.0,
+          "Lower Limit": 74.0
+        },
+        "18-49": {
+          "Upper Limit": 99.0,
+          "Lower Limit": 80.0
+        },
+        "50+": {
+          "Upper Limit": 99.2,
+          "Lower Limit": 80.1
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 86.0,
+          "Lower Limit": 74.0
+        },
+        "18-49": {
+          "Upper Limit": 99.5,
+          "Lower Limit": 80.0
+        },
+        "50+": {
+          "Upper Limit": 99.6,
+          "Lower Limit": 80.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCV may be due to certain health conditions.",
+      "Below Limit": "Low MCV can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Vitamin B12 deficiency anemia",
+        "Folate deficiency anemia",
+        "Chronic alcohol use",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Myelodysplastic syndromes (bone marrow disorders)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Thalassemia (a genetic blood disorder)",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Lead poisoning",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ] 
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCV under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies.",
+        "Follow treatment recommendations for megaloblastic anemias."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Mean Cell Hemoglobin (MCH)": {
+    "What It Is": "MCH measures the amount of hemoglobin in an individual Red Blood Cell (RBC).",
+    "Reference Values":{
+      "males": {
+        "children": {
+          "0-17": {
+            "Upper Limit": 30.0,
+            "Lower Limit": 25.0
+          }
+        },
+        "18-49": {
+          "Upper Limit": 33.0,
+          "Lower Limit": 27.0
+        },
+        "50+": {
+          "Upper Limit": 33.5,
+          "Lower Limit": 27.0
+        }
+      },
+      "females": {
+        "children": {
+          "0-17": {
+            "Upper Limit": 30.0,
+            "Lower Limit": 25.0
+          }
+        },
+        "18-49": {
+          "Upper Limit": 33.5,
+          "Lower Limit": 27.0
+        },
+        "50+": {
+          "Upper Limit": 34.0,
+          "Lower Limit": 27.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCH may be related to health conditions.",
+      "Below Limit": "Low MCH can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Alcohol use disorder",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Hereditary spherocytosis (a genetic disorder)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Smoking",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Lead poisoning",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Thalassemia (a genetic blood disorder)",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
+        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
+        "Quit smoking to prevent the effects of smoking on MCH."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Mean Cell Hemoglobin Concentration (MCHC)": {
+    "What It Is": "MCHC measures the concentration of hemoglobin in Red Blood Cells (RBCs).",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 34.5,
+          "Lower Limit": 30.5
+        },
+        "18-49": {
+          "Upper Limit": 35.5,
+          "Lower Limit": 31.5
+        },
+        "50+": {
+          "Upper Limit": 35.8,
+          "Lower Limit": 31.8
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 34.5,
+          "Lower Limit": 30.5
+        },
+        "18-49": {
+          "Upper Limit": 35.5,
+          "Lower Limit": 31.5
+        },
+        "50+": {
+          "Upper Limit": 36.0,
+          "Lower Limit": 32.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MCHC may be associated with health conditions.",
+      "Below Limit": "Low MCHC can indicate anemia."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Macrocytic anemias (e.g., megaloblastic anemias)",
+        "Alcohol use disorder",
+        "Medications (e.g., certain anticonvulsants)",
+        "Liver disease",
+        "Hypothyroidism",
+        "Hereditary spherocytosis (a genetic disorder)",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Smoking",
+        "Certain medications and health conditions"
+      ],
+      "Below Limit": [
+        "Iron-deficiency anemia",
+        "Lead poisoning",
+        "Chronic diseases (e.g., chronic inflammation)",
+        "Thalassemia (a genetic blood disorder)",
+        "Sideroblastic anemia (a rare genetic disorder)",
+        "Hemoglobinopathies (e.g., sickle cell anemia)",
+        "Malnutrition",
+        "Chronic blood loss (e.g., gastrointestinal bleeding)",
+        "Bone marrow disorders",
+        "Chronic kidney disease"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Limit alcohol consumption and seek help for alcohol use disorders.",
+        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
+        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
+        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
+        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
+        "Quit smoking to prevent the effects of smoking on MCH."
+      ],
+      "Below Limit": [
+        "Maintain a diet rich in iron and essential nutrients.",
+        "Treat and manage chronic medical conditions.",
+        "Prevent exposure to lead and environmental toxins.",
+        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management",
+        "Genetic counseling for inherited blood disorders.",
+        "Medication management under healthcare provider guidance.",
+        "Address chronic inflammation or malnutrition."
+      ]
+    }
+  },
+  "Red Cell Distribution Width (RDW)": {
+    "What It Is": "RDW measures the variation in the size of Red Blood Cells (RBCs).",
+    "Reference Values":  {
+      "males": {
+        "0-17": {
+          "Upper Limit": 14.5,
+          "Lower Limit": 10.5
+        },
+        "18-49": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "50+": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 14.5,
+          "Lower Limit": 10.5
+        },
+        "18-49": {
+          "Upper Limit": 15.5,
+          "Lower Limit": 11.5
+        },
+        "50+": {
+          "Upper Limit": 16.0,
+          "Lower Limit": 12.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High RDW can indicate various health conditions.",
+      "Below Limit": "Low RDW is not typically a concern."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Nutritional deficiencies, such as iron, vitamin B12, or folate deficiency",
+        "Hemolysis (premature destruction of red blood cells)",
+        "Chronic inflammation or chronic diseases",
+        "Certain genetic conditions affecting red blood cells",
+        "Bone marrow disorders",
+        "Certain medications and chemotherapies",
+        "Megaloblastic anemias",
+        "Thalassemia and hemoglobinopathies",
+        "Sickle cell anemia and other hemoglobin disorders",
+        "Hemorrhage (acute blood loss)"
+      ],
+      "Below Limit": [
+        "Nutritional deficiencies, particularly iron deficiency",
+        "Thalassemia or other hemoglobinopathies",
+        "Chronic diseases, such as chronic inflammation",
+        "Certain genetic conditions affecting red blood cells",
+        "Hemolytic anemias, characterized by premature red blood cell destruction",
+        "Bone marrow disorders",
+        "Medications that suppress red blood cell production",
+        "Leukemia and other blood cancers",
+        "Lead poisoning",
+        "Hemorrhage (acute blood loss)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
+        "Manage and treat underlying conditions effectively, especially chronic inflammation.",
+        "Monitor and manage medications that can lead to high RDW under healthcare provider guidance.",
+        "Regular health checkups to monitor overall health and detect nutritional deficiencies",
+        "Follow treatment recommendations for anemias, including megaloblastic anemias and hemoglobin disorders",
+        "Take safety measures to prevent accidents and injuries."
+      ],
+      "Below Limit":[
+        "Maintain a well-balanced diet to prevent nutritional deficiencies.",
+        "Manage and treat chronic medical conditions effectively",
+        "Avoid exposure to lead and environmental toxins.",
+        "Follow safety measures to prevent accidents and injuries leading to blood loss.",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited blood disorders",
+        "Medication management under healthcare provider guidance."
+      ]
+    }
+  },
+  "Platelet Count": {
+    "What It Is": "Platelets help with blood clotting.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 450.0,
+          "Lower Limit": 300.0
+        },
+        "18-49": {
+          "Upper Limit": 350.0,
+          "Lower Limit": 150.0
+        },
+        "50+": {
+          "Upper Limit": 370.0,
+          "Lower Limit": 160.0
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 450.0,
+          "Lower Limit": 300.0
+        },
+        "18-49": {
+          "Upper Limit": 350.0,
+          "Lower Limit": 150.0
+        },
+        "50+": {
+          "Upper Limit": 370.0,
+          "Lower Limit": 160.0
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High platelet counts may increase the risk of blood clots.",
+      "Below Limit": "Low platelet counts can lead to bleeding issues."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Essential thrombocythemia (a bone marrow disorder)",
+        "Reactive thrombocytosis due to infections, inflammation, or surgery",
+        "Iron-deficiency anemia",
+        "Chronic myeloid leukemia",
+        "Polycythemia vera",
+        "Medications (e.g., steroids or epinephrine)",
+        "Splenectomy (removal of the spleen)",
+        "Inflammatory disorders (e.g., rheumatoid arthritis)",
+        "Myeloproliferative neoplasms",
+        "Hemorrhage or blood loss"
+      ],
+      "Below Limit": [
+        "Bone marrow disorders (e.g., aplastic anemia)",
+        "Leukemia and other blood cancers",
+        "Viral infections (e.g., HIV)",
+        "Chemotherapy and radiation therapy",
+        "Medications (e.g., certain antibiotics or anticonvulsants)",
+        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
+        "Liver disease (cirrhosis)",
+        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
+        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
+        "Certain infections (e.g., hepatitis C)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
+        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
+        "Seek treatment for inflammatory disorders.",
+        "Prevent infections and follow post-surgical care recommendations.",
+        "Regular health checkups to monitor overall health.",
+        "Genetic counseling for inherited blood disorders.",
+        "Follow safety measures to prevent excessive bleeding.",
+        "Control iron-deficiency anemia and maintain a well-balanced diet."
+      ],
+      "Below Limit": [
+        "Minimize exposure to infectious agents that may cause viral infections.",
+        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
+        "Maintain a well-balanced diet and address nutritional deficiencies",
+        "Seek treatment for autoimmune disorders and underlying medical conditions.",
+        "Follow safety measures to prevent injuries that could lead to bleeding",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited platelet disorders.",
+        "Avoid excessive alcohol consumption, as it can affect platelet function."
+      ]
+    }
+  },
+  "Mean Platelet Volume (MPV)": {
+    "What It Is": "MPV measures the average size of platelets in your blood.",
+    "Reference Values": {
+      "males": {
+        "0-17": {
+          "Upper Limit": 11.5,
+          "Lower Limit": 7.0
+        },
+        "18-49": {
+          "Upper Limit": 12.0,
+          "Lower Limit": 7.0
+        },
+        "50+": {
+          "Upper Limit": 12.2,
+          "Lower Limit": 7.2
+        }
+      },
+      "females": {
+        "0-17": {
+          "Upper Limit": 11.5,
+          "Lower Limit": 7.0
+        },
+        "18-49": {
+          "Upper Limit": 12.0,
+          "Lower Limit": 7.0
+        },
+        "50+": {
+          "Upper Limit": 12.2,
+          "Lower Limit": 7.2
+        }
+      }
+    },
+    "Effects": {
+      "Above Limit": "High MPV may indicate inflammation or bone marrow disorders.",
+      "Below Limit": "Low MPV is not typically a concern."
+    },
+    "Possible Causes": {
+      "Above Limit": [
+        "Essential thrombocythemia (a bone marrow disorder)",
+        "Reactive thrombocytosis due to infections, inflammation, or surgery",
+        "Iron-deficiency anemia",
+        "Chronic myeloid leukemia",
+        "Polycythemia vera",
+        "Medications (e.g., steroids or epinephrine)",
+        "Splenectomy (removal of the spleen)",
+        "Inflammatory disorders (e.g., rheumatoid arthritis)",
+        "Myeloproliferative neoplasms",
+        "Hemorrhage or blood loss"
+      ],
+      "Below Limit": [
+        "Bone marrow disorders (e.g., aplastic anemia)",
+        "Leukemia and other blood cancers",
+        "Viral infections (e.g., HIV)",
+        "Chemotherapy and radiation therapy",
+        "Medications (e.g., certain antibiotics or anticonvulsants)",
+        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
+        "Liver disease (cirrhosis)",
+        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
+        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
+        "Certain infections (e.g., hepatitis C)"
+      ]
+    },
+    "Preventions": {
+      "Above Limit": [
+        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
+        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
+        "Seek treatment for inflammatory disorders.",
+        "Prevent infections and follow post-surgical care recommendations.",
+        "Regular health checkups to monitor overall health.",
+        "Genetic counseling for inherited blood disorders.",
+        "Follow safety measures to prevent excessive bleeding.",
+        "Control iron-deficiency anemia and maintain a well-balanced diet."
+      ],
+      "Below Limit": [
+        "Minimize exposure to infectious agents that may cause viral infections.",
+        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
+        "Maintain a well-balanced diet and address nutritional deficiencies",
+        "Seek treatment for autoimmune disorders and underlying medical conditions.",
+        "Follow safety measures to prevent injuries that could lead to bleeding",
+        "Regular health checkups for early detection and management.",
+        "Genetic counseling for inherited platelet disorders.",
+        "Avoid excessive alcohol consumption, as it can affect platelet function."
+      ]
+    }
+  }
+}
+}
+    
