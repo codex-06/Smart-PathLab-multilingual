@@ -21,7 +21,7 @@ router.post('/', (req, res) => {
   const result = {
     "en":{
       "Above Limit": "Above Limit",
-      "ok": ok,
+      "ok": "ok",
       "Below Limit" : "Below Limit"
     },
     "hi":{
