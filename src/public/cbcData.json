@@ -200,25 +200,26 @@
     },
     "Preventions": {
       "Above Limit":[
-        "Avoid Smoking",
-        "Adequate Hydration",
-        "Control Chronic Conditions",
-        "Schedule regular checkups with your healthcare provider to monitor your blood counts.",
-        "Participate in recommended cancer screenings",
-        "Maintain a healthy lifestyle that includes a well-balanced diet, regular exercise, and adequate sleep to support overall health.",
-        "If you are prescribed medications that can stimulate red blood cell production (e.g., androgens), work closely with your healthcare provider to manage these medications."
-      ],
+        "धूम्रपान से बचें",
+        "पर्याप्त जलयोजन",
+        "दीर्घकालिक स्थितियों को नियंत्रित करें",
+        "अपनी रक्त गणना की निगरानी के लिए अपने स्वास्थ्य सेवा प्रदाता के साथ नियमित जांच का समय निर्धारित करें",
+        "अनुशंसित कैंसर जांच में भाग लें",
+        "एक स्वस्थ जीवन शैली बनाए रखें जिसमें अच्छी तरह से संतुलित आहार, नियमित व्यायाम और समग्र स्वास्थ्य का समर्थन करने के लिए पर्याप्त नींद शामिल हो",
+        "यदि आपको ऐसी दवाएं दी गई हैं जो लाल रक्त कोशिका उत्पादन को उत्तेजित कर सकती हैं (उदाहरण के लिए, एण्ड्रोजन), तो इन दवाओं को प्रबंधित करने के लिए अपने स्वास्थ्य सेवा प्रदाता के साथ मिलकर काम करें"
+        ],
       "Below Limit":[
-        "Consume a diet rich in iron",
-        "Include foods rich in vitamin B12 and folates",
-        "Schedule regular checkups",
-        "Avoid Excessive Alcohol and Drug Use",
-        "Minimize exposure to environmental toxins and hazardous materials ",
-        "If you have a family history of inherited anemias, consider genetic counseling"]
+        "आयरन से भरपूर आहार का सेवन करें",
+        "विटामिन बी12 और फोलेट्स से भरपूर खाद्य पदार्थ शामिल करें",
+        "नियमित जांच करवाएं",
+        "अत्यधिक शराब और नशीली दवाओं के उपयोग से बचें",
+        "पर्यावरण के विषाक्त पदार्थों और खतरनाक सामग्रियों के संपर्क को कम करें",
+        "यदि आपको विरासत में मिले एनीमिया का पारिवारिक इतिहास है, तो आनुवंशिक परामर्श पर विचार करें"
+        ]
     }
   },  
   "Hematocrit (HCT)": {
-    "What It Is": "Hematocrit measures the percentage of blood volume made up of Red Blood Cells (RBCs).",
+    "What It Is": "हेमेटोक्रिट लाल रक्त कोशिकाओं (आरबीसी) से बने रक्त की मात्रा का प्रतिशत मापता है।",
     "Reference Values": {
       "males": {
         "0-17": {
@@ -250,61 +251,61 @@
       }
     },
     "Effects": {
-      "Above Limit": ["High hematocrit may suggest dehydration or other conditions."],
-      "Below Limit": "Low hematocrit can lead to anemia and fatigue."
+      "Above Limit": ["उच्च हेमेटोक्रिट निर्जलीकरण या अन्य स्थितियों का संकेत दे सकता है।"],
+      "Below Limit": ["कम हेमेटोक्रिट एनीमिया और थकान का कारण बन सकता है।"]
     },
     "Possible Causes": {
       "Above Limit": [
-        "Polycythemia vera (bone marrow disorder)",
-        "Secondary polycythemia (e.g., due to chronic hypoxia or kidney tumors)",
-        "Congenital heart disease",
-        "Lung diseases (e.g., chronic obstructive pulmonary disease)",
-        "Smoking",
-        "High-altitude living",
-        "Medications (e.g., androgens)",
-        "Dehydration",
-        "Certain cancers (e.g., kidney and liver cancers)",
-        "Unknown causes (idiopathic erythrocytosis)"
+        "पॉलीसिथेमिया वेरा",
+        "सेकेंडरी पॉलीसिथेमिया",
+        "जन्मजात हृदय रोग",
+        "फेफड़ों के रोग",
+        "धूम्रपान",
+        "उच्च ऊंचाई पर रहना",
+        "दवाएं",
+        "निर्जलीकरण",
+        "कुछ कैंसर",
+        "अज्ञात कारण"
       ],
       "Below Limit": [
-        "Iron-deficiency anemia",
-        "Vitamin-deficiency anemias (e.g., vitamin B12 or folate deficiency)",
-        "Chronic diseases and inflammation",
-        "Hemolysis (premature destruction of red blood cells)",
-        "Bone marrow disorders",
-        "Hemorrhage (acute blood loss)",
-        "Chronic kidney disease",
-        "Inherited blood disorders (e.g., thalassemia)",
-        "Medications (e.g., chemotherapy drugs)"
-      ]
+        "आयरन की कमी से होने वाला एनीमिया",
+        "विटामिन की कमी से होने वाला एनीमिया (जैसे, विटामिन B12 या फोलेट की कमी)",
+        "दीर्घकालिक बीमारियां और सूजन",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "अस्थि मज्जा विकार",
+        "रक्तस्राव (तीव्र रक्त हानि)",
+        "क्रोनिक किडनी रोग",
+        "वंशानुगत रक्त विकार (जैसे, थैलेसीमिया)",
+        "दवाएं (जैसे, कीमोथेरेपी दवाएं)"
+        ]
     },
     "Preventions": {
       "Above Limit": [
-        "Quit smoking to prevent tobacco-related polycythemia.",
-        "Maintain proper hydration.",
-        "Control chronic diseases and inflammation.",
-        "Be aware of adaptive polycythemia at high altitudes.",
-        "Regular health checkups to monitor overall health.",
-        "Manage medication side effects under healthcare provider guidance.",
-        "Participate in recommended cancer screenings.",
-        "Healthy lifestyle choices.",
-        "Consult with a healthcare provider for idiopathic erythrocytosis."
-              ],
+        "तंबाकू से संबंधित पॉलीसिथेमिया को रोकने के लिए धूम्रपान छोड़ दें।",
+        "उचित जलयोजन बनाए रखें।",
+        "दीर्घकालिक बीमारियों और सूजन को नियंत्रित करें।",
+        "ऊंचे इलाकों में अनुकूलनकारी पॉलीसिथेमिया के बारे में जागरूक रहें।",
+        "समग्र स्वास्थ्य की निगरानी के लिए नियमित स्वास्थ्य जांच।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा के दुष्प्रभावों का प्रबंधन करें।",
+        "अनुशंसित कैंसर जांच में भाग लें।",
+        "स्वस्थ जीवनशैली के विकल्प।",
+        "इडियोपैथिक एरिथ्रोसाइटोसिस के लिए एक स्वास्थ्य सेवा प्रदाता से परामर्श करें।"
+        ],
       "Below Limit": [
-        "Maintain an iron-rich diet.",
-        "Consume foods high in vitamin B12 and folate.",
-        "Manage chronic medical conditions.",
-       " Practice safe measures to prevent injury and acute blood loss.",
-        "Undergo regular health checkups for early detection and management.",
-        "Avoid excessive alcohol and drug use.",
-        "Genetic counseling for inherited blood disorders.",
-        "Medication management under healthcare provider guidance.",
-        "Follow prenatal care recommendations during pregnancy."
-      ]
+        "आयरन युक्त आहार बनाए रखें।",
+        "विटामिन बी12 और फोलेट से भरपूर खाद्य पदार्थों का सेवन करें।",
+        "दीर्घकालिक चिकित्सा स्थितियों का प्रबंधन करें।",
+        "चोट और तीव्र रक्त हानि को रोकने के लिए सुरक्षित उपायों का अभ्यास करें।",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच करें।",
+        "अत्यधिक शराब और नशीली दवाओं के उपयोग से बचें।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा प्रबंधन।",
+        "गर्भावस्था के दौरान प्रसवपूर्व देखभाल की सिफारिशों का पालन करें।"
+        ]
     }  
   },
   "Mean Cell Volume (MCV)": {
-    "What It Is": "MCV measures the average volume of your Red Blood Cells (RBCs).",
+    "What It Is": "MCV लाल रक्त कोशिकाओं (RBCs) की औसत आयतन को मापता है।",
     "Reference Values": {
       "males": {
         "0-17": {
@@ -336,58 +337,58 @@
       }
     },
     "Effects": {
-      "Above Limit": "High MCV may be due to certain health conditions.",
-      "Below Limit": "Low MCV can indicate anemia."
+      "Above Limit": "उच्च MCV कुछ स्वास्थ्य स्थितियों के कारण हो सकता है।",
+      "Below Limit": "कम MCV एनीमिया का संकेत दे सकता है।"
     },
     "Possible Causes": {
       "Above Limit": [
-        "Vitamin B12 deficiency anemia",
-        "Folate deficiency anemia",
-        "Chronic alcohol use",
-        "Medications (e.g., certain anticonvulsants)",
-        "Liver disease",
-        "Hypothyroidism",
-        "Myelodysplastic syndromes (bone marrow disorders)",
-        "Hemolysis (premature destruction of red blood cells)",
-        "Macrocytic anemias (e.g., megaloblastic anemias)",
-        "Certain medications and health conditions"
-      ],
+        "विटामिन बी12 की कमी से होने वाला एनीमिया",
+        "फोलेट की कमी से होने वाला एनीमिया",
+        "दीर्घकालिक शराब का उपयोग",
+        "दवाएं (जैसे, कुछ एंटीकॉन्वेलसेंट)",
+        "जीवन रोग",
+        "हाइपोथायरायडिज्म",
+        "मायलोइड्सप्लास्टिक सिंड्रोम (अस्थि मज्जा विकार)",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "मैक्रोसाइटिक एनीमिया (जैसे, मेगालोब्लास्टिक एनीमिया)",
+        "कुछ दवाएं और स्वास्थ्य स्थितियां"
+        ],
       "Below Limit": [
-        "Iron-deficiency anemia",
-        "Thalassemia (a genetic blood disorder)",
-        "Chronic diseases (e.g., chronic inflammation)",
-        "Lead poisoning",
-        "Sideroblastic anemia (a rare genetic disorder)",
-        "Hemoglobinopathies (e.g., sickle cell anemia)",
-        "Malnutrition",
-        "Chronic blood loss (e.g., gastrointestinal bleeding)",
-        "Bone marrow disorders",
-        "Chronic kidney disease"
-      ] 
+        "आयरन की कमी से होने वाला एनीमिया",
+        "थैलेसीमिया (एक वंशानुगत रक्त विकार)",
+        "दीर्घकालिक बीमारियां (जैसे, दीर्घकालिक सूजन)",
+        "सीसा विषाक्तता",
+        "साइडरोब्लास्टिक एनीमिया (एक दुर्लभ वंशानुगत विकार)",
+        "हीमोग्लोबिनोपैथी (जैसे, सिकल सेल एनीमिया)",
+        "कुपोषण",
+        "क्रोनिक रक्त हानि (जैसे, जठरांत्रीय रक्तस्राव)",
+        "अस्थि मज्जा विकार",
+        "क्रोनिक किडनी रोग"
+        ]
     },
     "Preventions": {
       "Above Limit": [
-        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
-        "Limit alcohol consumption and seek help for alcohol use disorders.",
-        "Monitor and manage medications that can lead to high MCV under healthcare provider guidance.",
-        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
-        "Regular health checkups to monitor overall health and detect vitamin deficiencies.",
-        "Follow treatment recommendations for megaloblastic anemias."
-      ],
+        "आवश्यक पोषक तत्वों की पर्याप्त मात्रा के साथ एक अच्छी तरह से संतुलित आहार बनाए रखें।",
+        "शराब के सेवन को सीमित करें और शराब के उपयोग के विकारों के लिए मदद लें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में उन दवाओं की निगरानी और प्रबंधन करें जो उच्च MCV का कारण बन सकती हैं।",
+        "लिवर रोग और हाइपोथायरायडिज्म जैसी अंतर्निहित चिकित्सा स्थितियों को संबोधित और प्रबंधित करें।",
+        "समग्र स्वास्थ्य की निगरानी और विटामिन की कमी का पता लगाने के लिए नियमित स्वास्थ्य जांच।",
+        "मेगालोब्लास्टिक एनीमिया के लिए उपचार की सिफारिशों का पालन करें।"
+        ],
       "Below Limit": [
-        "Maintain a diet rich in iron and essential nutrients.",
-        "Treat and manage chronic medical conditions.",
-        "Prevent exposure to lead and environmental toxins.",
-        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
-        "Regular health checkups for early detection and management.",
-        "Genetic counseling for inherited blood disorders.",
-        "Medication management under healthcare provider guidance.",
-        "Address chronic inflammation or malnutrition."
-      ]
+        "आयरन और आवश्यक पोषक तत्वों से भरपूर आहार बनाए रखें।",
+        "दीर्घकालिक चिकित्सा स्थितियों का इलाज और प्रबंधन करें।",
+        "सीसा और पर्यावरण विषाक्त पदार्थों के संपर्क को रोकें।",
+        "दुर्घटनाओं और चोटों से बचने के लिए सुरक्षा उपायों का पालन करें जिससे रक्त की कमी हो।",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा प्रबंधन।",
+        "क्रोनिक सूजन या कुपोषण को दूर करें।"
+        ]
     }
   },
   "Mean Cell Hemoglobin (MCH)": {
-    "What It Is": "MCH measures the amount of hemoglobin in an individual Red Blood Cell (RBC).",
+    "What It Is": "MCH एक व्यक्तिगत लाल रक्त कोशिका (RBC) में हीमोग्लोबिन की मात्रा को मापता है।",
     "Reference Values":{
       "males": {
         "children": {
@@ -423,57 +424,57 @@
       }
     },
     "Effects": {
-      "Above Limit": "High MCH may be related to health conditions.",
-      "Below Limit": "Low MCH can indicate anemia."
+        "Above Limit": "उच्च MCH स्वास्थ्य स्थितियों से संबंधित हो सकता है।",
+        "Below Limit": "कम MCH एनीमिया का संकेत दे सकता है।"
     },
     "Possible Causes": {
       "Above Limit": [
-        "Macrocytic anemias (e.g., megaloblastic anemias)",
-        "Alcohol use disorder",
-        "Medications (e.g., certain anticonvulsants)",
-        "Liver disease",
-        "Hypothyroidism",
-        "Hereditary spherocytosis (a genetic disorder)",
-        "Hemolysis (premature destruction of red blood cells)",
-        "Smoking",
-        "Certain medications and health conditions"
-      ],
+        "मैक्रोसाइटिक एनीमिया (जैसे, मेगालोब्लास्टिक एनीमिया)",
+        "शराब का उपयोग विकार",
+        "दवाएं (जैसे, कुछ एंटीकॉन्वेलसेंट)",
+        "जीवन रोग",
+        "हाइपोथायरायडिज्म",
+        "वंशानुगत स्फेरोसाइटोसिस (एक वंशानुगत विकार)",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "धूम्रपान",
+        "कुछ दवाएं और स्वास्थ्य स्थितियां"
+        ],
       "Below Limit": [
-        "Iron-deficiency anemia",
-        "Lead poisoning",
-        "Chronic diseases (e.g., chronic inflammation)",
-        "Thalassemia (a genetic blood disorder)",
-        "Sideroblastic anemia (a rare genetic disorder)",
-        "Hemoglobinopathies (e.g., sickle cell anemia)",
-        "Malnutrition",
-        "Chronic blood loss (e.g., gastrointestinal bleeding)",
-        "Bone marrow disorders",
-        "Chronic kidney disease"
-      ]
+        "आयरन की कमी से होने वाला एनीमिया",
+        "सीसा विषाक्तता",
+        "दीर्घकालिक बीमारियां (जैसे, दीर्घकालिक सूजन)",
+        "थैलेसीमिया (एक वंशानुगत रक्त विकार)",
+        "साइडरोब्लास्टिक एनीमिया (एक दुर्लभ वंशानुगत विकार)",
+        "हीमोग्लोबिनोपैथी (जैसे, सिकल सेल एनीमिया)",
+        "कुपोषण",
+        "क्रोनिक रक्त हानि (जैसे, जठरांत्रीय रक्तस्राव)",
+        "अस्थि मज्जा विकार",
+        "क्रोनिक किडनी रोग"
+        ]
     },
     "Preventions": {
       "Above Limit": [
-        "Limit alcohol consumption and seek help for alcohol use disorders.",
-        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
-        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
-        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
-        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
-        "Quit smoking to prevent the effects of smoking on MCH."
-      ],
+        "शराब के सेवन को सीमित करें और शराब के उपयोग के विकारों के लिए मदद लें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में उन दवाओं की निगरानी और प्रबंधन करें जो उच्च MCH का कारण बन सकती हैं।",
+        "लिवर रोग और हाइपोथायरायडिज्म जैसी अंतर्निहित चिकित्सा स्थितियों को संबोधित और प्रबंधित करें।",
+        "समग्र स्वास्थ्य की निगरानी और विटामिन की कमी का पता लगाने के लिए नियमित स्वास्थ्य जांच।",
+        "मेगालोब्लास्टिक एनीमिया और वंशानुगत स्फेरोसाइटोसिस के लिए उपचार की सिफारिशों का पालन करें।",
+        "MCH पर धूम्रपान के प्रभाव को रोकने के लिए धूम्रपान छोड़ दें।"
+        ],
       "Below Limit": [
-        "Maintain a diet rich in iron and essential nutrients.",
-        "Treat and manage chronic medical conditions.",
-        "Prevent exposure to lead and environmental toxins.",
-        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
-        "Regular health checkups for early detection and management",
-        "Genetic counseling for inherited blood disorders.",
-        "Medication management under healthcare provider guidance.",
-        "Address chronic inflammation or malnutrition."
-      ]
+        "आयरन और आवश्यक पोषक तत्वों से भरपूर आहार बनाए रखें।",
+        "दीर्घकालिक चिकित्सा स्थितियों का इलाज और प्रबंधन करें।",
+        "सीसा और पर्यावरण विषाक्त पदार्थों के संपर्क को रोकें।",
+        "दुर्घटनाओं और चोटों से बचने के लिए सुरक्षा उपायों का पालन करें जिससे रक्त की कमी हो।",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा प्रबंधन।",
+        "क्रोनिक सूजन या कुपोषण को दूर करें।"
+        ]
     }
   },
   "Mean Cell Hemoglobin Concentration (MCHC)": {
-    "What It Is": "MCHC measures the concentration of hemoglobin in Red Blood Cells (RBCs).",
+    "What It Is": "MCHC लाल रक्त कोशिकाओं (RBCs) में हीमोग्लोबिन की सांद्रता को मापता है।",
     "Reference Values": {
       "males": {
         "0-17": {
@@ -510,52 +511,52 @@
     },
     "Possible Causes": {
       "Above Limit": [
-        "Macrocytic anemias (e.g., megaloblastic anemias)",
-        "Alcohol use disorder",
-        "Medications (e.g., certain anticonvulsants)",
-        "Liver disease",
-        "Hypothyroidism",
-        "Hereditary spherocytosis (a genetic disorder)",
-        "Hemolysis (premature destruction of red blood cells)",
-        "Smoking",
-        "Certain medications and health conditions"
-      ],
+        "मैक्रोसाइटिक एनीमिया (जैसे, मेगालोब्लास्टिक एनीमिया)",
+        "शराब का उपयोग विकार",
+        "दवाएं (जैसे, कुछ एंटीकॉन्वेलसेंट)",
+        "जीवन रोग",
+        "हाइपोथायरायडिज्म",
+        "वंशानुगत स्फेरोसाइटोसिस (एक वंशानुगत विकार)",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "धूम्रपान",
+        "कुछ दवाएं और स्वास्थ्य स्थितियां"
+],
       "Below Limit": [
-        "Iron-deficiency anemia",
-        "Lead poisoning",
-        "Chronic diseases (e.g., chronic inflammation)",
-        "Thalassemia (a genetic blood disorder)",
-        "Sideroblastic anemia (a rare genetic disorder)",
-        "Hemoglobinopathies (e.g., sickle cell anemia)",
-        "Malnutrition",
-        "Chronic blood loss (e.g., gastrointestinal bleeding)",
-        "Bone marrow disorders",
-        "Chronic kidney disease"
-      ]
+        "आयरन की कमी से होने वाला एनीमिया",
+        "सीसा विषाक्तता",
+        "दीर्घकालिक बीमारियां (जैसे, दीर्घकालिक सूजन)",
+        "थैलेसीमिया (एक वंशानुगत रक्त विकार)",
+        "साइडरोब्लास्टिक एनीमिया (एक दुर्लभ वंशानुगत विकार)",
+        "हीमोग्लोबिनोपैथी (जैसे, सिकल सेल एनीमिया)",
+        "कुपोषण",
+        "क्रोनिक रक्त हानि (जैसे, जठरांत्रीय रक्तस्राव)",
+        "अस्थि मज्जा विकार",
+        "क्रोनिक किडनी रोग"
+        ]
     },
     "Preventions": {
       "Above Limit": [
-        "Limit alcohol consumption and seek help for alcohol use disorders.",
-        "Monitor and manage medications that can lead to high MCH under healthcare provider guidance.",
-        "Address and manage underlying medical conditions like liver disease and hypothyroidism.",
-        "Regular health checkups to monitor overall health and detect vitamin deficiencies",
-        "Follow treatment recommendations for megaloblastic anemias and hereditary spherocytosis.",
-        "Quit smoking to prevent the effects of smoking on MCH."
-      ],
+        "शराब के सेवन को सीमित करें और शराब के उपयोग के विकारों के लिए मदद लें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में उन दवाओं की निगरानी और प्रबंधन करें जो उच्च MCH का कारण बन सकती हैं।",
+        "लिवर रोग और हाइपोथायरायडिज्म जैसी अंतर्निहित चिकित्सा स्थितियों को संबोधित और प्रबंधित करें।",
+        "समग्र स्वास्थ्य की निगरानी और विटामिन की कमी का पता लगाने के लिए नियमित स्वास्थ्य जांच।",
+        "मेगालोब्लास्टिक एनीमिया और वंशानुगत स्फेरोसाइटोसिस के लिए उपचार की सिफारिशों का पालन करें।",
+        "MCH पर धूम्रपान के प्रभाव को रोकने के लिए धूम्रपान छोड़ दें।"
+        ],
       "Below Limit": [
-        "Maintain a diet rich in iron and essential nutrients.",
-        "Treat and manage chronic medical conditions.",
-        "Prevent exposure to lead and environmental toxins.",
-        "Follow safety measures to avoid accidents and injuries leading to blood loss.",
-        "Regular health checkups for early detection and management",
-        "Genetic counseling for inherited blood disorders.",
-        "Medication management under healthcare provider guidance.",
-        "Address chronic inflammation or malnutrition."
-      ]
+        "आयरन और आवश्यक पोषक तत्वों से भरपूर आहार बनाए रखें।",
+        "दीर्घकालिक चिकित्सा स्थितियों का इलाज और प्रबंधन करें।",
+        "सीसा और पर्यावरण विषाक्त पदार्थों के संपर्क को रोकें।",
+        "दुर्घटनाओं और चोटों से बचने के लिए सुरक्षा उपायों का पालन करें जिससे रक्त की कमी हो।",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा प्रबंधन।",
+        "क्रोनिक सूजन या कुपोषण को दूर करें।"
+        ]
     }
   },
   "Red Cell Distribution Width (RDW)": {
-    "What It Is": "RDW measures the variation in the size of Red Blood Cells (RBCs).",
+    "What It Is": "RDW लाल रक्त कोशिकाओं (RBCs) के आकार में भिन्नता को मापता है।",
     "Reference Values":  {
       "males": {
         "0-17": {
@@ -587,57 +588,57 @@
       }
     },
     "Effects": {
-      "Above Limit": "High RDW can indicate various health conditions.",
-      "Below Limit": "Low RDW is not typically a concern."
+      "Above Limit": "उच्च आरडीडब्ल्यू विभिन्न स्वास्थ्य स्थितियों का संकेत दे सकता है।",
+      "Below Limit": "कम आरडीडब्ल्यू आम तौर पर चिंता की बात नहीं है।"
     },
     "Possible Causes": {
       "Above Limit": [
-        "Nutritional deficiencies, such as iron, vitamin B12, or folate deficiency",
-        "Hemolysis (premature destruction of red blood cells)",
-        "Chronic inflammation or chronic diseases",
-        "Certain genetic conditions affecting red blood cells",
-        "Bone marrow disorders",
-        "Certain medications and chemotherapies",
-        "Megaloblastic anemias",
-        "Thalassemia and hemoglobinopathies",
-        "Sickle cell anemia and other hemoglobin disorders",
-        "Hemorrhage (acute blood loss)"
-      ],
+        "पोषक तत्वों की कमी, जैसे आयरन, विटामिन बी12, या फोलेट की कमी",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "दीर्घकालिक सूजन या दीर्घकालिक बीमारियां",
+        "लाल रक्त कोशिकाओं को प्रभावित करने वाली कुछ आनुवंशिक स्थितियां",
+        "अस्थि मज्जा विकार",
+        "कुछ दवाएं और कीमोथेरपी",
+        "मेगालोब्लास्टिक एनीमिया",
+        "थैलेसीमिया और हीमोग्लोबिनोपैथी",
+        "सिकल सेल एनीमिया और अन्य हीमोग्लोबिन विकार",
+        "रक्तस्राव (तीव्र रक्त हानि)"
+        ],
       "Below Limit": [
-        "Nutritional deficiencies, particularly iron deficiency",
-        "Thalassemia or other hemoglobinopathies",
-        "Chronic diseases, such as chronic inflammation",
-        "Certain genetic conditions affecting red blood cells",
-        "Hemolytic anemias, characterized by premature red blood cell destruction",
-        "Bone marrow disorders",
-        "Medications that suppress red blood cell production",
-        "Leukemia and other blood cancers",
-        "Lead poisoning",
-        "Hemorrhage (acute blood loss)"
-      ]
+        "पोषक तत्वों की कमी, जैसे आयरन, विटामिन बी12, या फोलेट की कमी",
+        "रक्तगुच्छिका विघटन (लाल रक्त कोशिकाओं का समय से पहले नष्ट हो जाना)",
+        "दीर्घकालिक सूजन या दीर्घकालिक बीमारियां",
+        "लाल रक्त कोशिकाओं को प्रभावित करने वाली कुछ आनुवंशिक स्थितियां",
+        "अस्थि मज्जा विकार",
+        "कुछ दवाएं और कीमोथेरपी",
+        "मेगालोब्लास्टिक एनीमिया",
+        "थैलेसीमिया और हीमोग्लोबिनोपैथी",
+        "सिकल सेल एनीमिया और अन्य हीमोग्लोबिन विकार",
+        "रक्तस्राव (तीव्र रक्त हानि)"
+        ]
     },
     "Preventions": {
       "Above Limit": [
-        "Maintain a well-balanced diet with adequate intake of essential nutrients.",
-        "Manage and treat underlying conditions effectively, especially chronic inflammation.",
-        "Monitor and manage medications that can lead to high RDW under healthcare provider guidance.",
-        "Regular health checkups to monitor overall health and detect nutritional deficiencies",
-        "Follow treatment recommendations for anemias, including megaloblastic anemias and hemoglobin disorders",
-        "Take safety measures to prevent accidents and injuries."
-      ],
+        "आवश्यक पोषक तत्वों की पर्याप्त मात्रा के साथ एक संतुलित आहार बनाए रखें।",
+        "अंतर्निहित स्थितियों को प्रभावी ढंग से प्रबंधित और उपचारित करें, विशेषकर दीर्घकालिक सूजन।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में उन दवाओं की निगरानी और प्रबंधन करें जो उच्च आरडीडब्ल्यू का कारण बन सकती हैं।",
+        "समग्र स्वास्थ्य की निगरानी और पोषक तत्वों की कमी का पता लगाने के लिए नियमित स्वास्थ्य जांच।",
+        "एनीमिया के लिए उपचार की सिफारिशों का पालन करें, जिसमें मेगालोब्लास्टिक एनीमिया और हीमोग्लोबिन विकार शामिल हैं।",
+        "दुर्घटनाओं और चोटों को रोकने के लिए सुरक्षा उपाय करें।"
+        ],
       "Below Limit":[
-        "Maintain a well-balanced diet to prevent nutritional deficiencies.",
-        "Manage and treat chronic medical conditions effectively",
-        "Avoid exposure to lead and environmental toxins.",
-        "Follow safety measures to prevent accidents and injuries leading to blood loss.",
-        "Regular health checkups for early detection and management.",
-        "Genetic counseling for inherited blood disorders",
-        "Medication management under healthcare provider guidance."
+        "पोषक तत्वों की कमी को रोकने के लिए एक संतुलित आहार बनाए रखें।",
+        "दीर्घकालिक चिकित्सा स्थितियों को प्रभावी ढंग से प्रबंधित और उपचारित करें।",
+        "सीसा और पर्यावरणीय विषाक्त पदार्थों के संपर्क से बचें।",
+        "दुर्घटनाओं और चोटों को रोकने के लिए सुरक्षा उपायों का पालन करें जिससे रक्त की कमी हो।",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में दवा प्रबंधन।"
       ]
     }
   },
   "Platelet Count": {
-    "What It Is": "Platelets help with blood clotting.",
+    "What It Is": "प्लेटलेट्स रक्त के थक्के बनने में मदद करते हैं।",
     "Reference Values": {
       "males": {
         "0-17": {
@@ -669,60 +670,64 @@
       }
     },
     "Effects": {
-      "Above Limit": "High platelet counts may increase the risk of blood clots.",
-      "Below Limit": "Low platelet counts can lead to bleeding issues."
+      "Above Limit": "उच्च प्लेटलेट्स की संख्या रक्त के थक्के बनने का जोखिम बढ़ा सकती है।",
+      "Below Limit": "प्लेटलेट्स की कम संख्या रक्तस्राव की समस्या पैदा कर सकती है।"
     },
     "Possible Causes": {
       "Above Limit": [
-        "Essential thrombocythemia (a bone marrow disorder)",
-        "Reactive thrombocytosis due to infections, inflammation, or surgery",
-        "Iron-deficiency anemia",
-        "Chronic myeloid leukemia",
-        "Polycythemia vera",
-        "Medications (e.g., steroids or epinephrine)",
-        "Splenectomy (removal of the spleen)",
-        "Inflammatory disorders (e.g., rheumatoid arthritis)",
-        "Myeloproliferative neoplasms",
-        "Hemorrhage or blood loss"
-      ],
-      "Below Limit": [
-        "Bone marrow disorders (e.g., aplastic anemia)",
-        "Leukemia and other blood cancers",
-        "Viral infections (e.g., HIV)",
-        "Chemotherapy and radiation therapy",
-        "Medications (e.g., certain antibiotics or anticonvulsants)",
-        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
-        "Liver disease (cirrhosis)",
-        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
-        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
-        "Certain infections (e.g., hepatitis C)"
+        "आवश्यक थ्रोम्बोसाइटेमिया (एक अस्थि मज्जा विकार)",
+        "संक्रमण, सूजन या सर्जरी के कारण प्रतिक्रियाशील थ्रोम्बोसाइटोसिस",
+        "आयरन की कमी से होने वाला एनीमिया",
+        "क्रोनिक मायलॉयड ल्यूकेमिया",
+        "पॉलीसिथीमिया वेरा",
+        "दवाएं (उदाहरण के लिए, स्टेरॉयड या एपिनेफ्राइन)",
+        "स्प्लेनेक्टोमी (प्लीहा को हटाना)",
+        "सूजन संबंधी विकार (उदाहरण के लिए, रूमेटोइड गठिया)",
+        "मायलोप्रोलिफेरेटिव नियोप्लाज्म",
+        "रक्तस्राव या रक्त की कमी"
       ]
+      ,
+      "Below Limit": [
+        "अस्थि मज्जा विकार (उदाहरण के लिए, एप्लास्टिक एनीमिया)",
+        "ल्यूकेमिया और अन्य रक्त कैंसर",
+        "वायरल संक्रमण (उदाहरण के लिए, एचआईवी)",
+        "कीमोथेरेपी और विकिरण उपचार",
+        "दवाएं (उदाहरण के लिए, कुछ एंटीबायोटिक्स या एंटीकॉन्वेलसेंट्स)",
+        "ऑटोइम्यून विकार (उदाहरण के लिए, इम्यून थ्रोम्बोसाइटोपेनिक पुरपुरा)",
+        "यकृत रोग (सिरोसिस)",
+        "पोषक तत्वों की कमी (उदाहरण के लिए, विटामिन बी12 या फोलेट की कमी)",
+        "विरासत में मिली स्थितियां (उदाहरण के लिए, विस्कॉट-एल्ड्रिच सिंड्रोम)",
+        "कुछ संक्रमण (उदाहरण के लिए, हेपेटाइटिस सी)"
+      ]
+      
     },
     "Preventions": {
       "Above Limit": [
-        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
-        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
-        "Seek treatment for inflammatory disorders.",
-        "Prevent infections and follow post-surgical care recommendations.",
-        "Regular health checkups to monitor overall health.",
-        "Genetic counseling for inherited blood disorders.",
-        "Follow safety measures to prevent excessive bleeding.",
-        "Control iron-deficiency anemia and maintain a well-balanced diet."
-      ],
-      "Below Limit": [
-        "Minimize exposure to infectious agents that may cause viral infections.",
-        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
-        "Maintain a well-balanced diet and address nutritional deficiencies",
-        "Seek treatment for autoimmune disorders and underlying medical conditions.",
-        "Follow safety measures to prevent injuries that could lead to bleeding",
-        "Regular health checkups for early detection and management.",
-        "Genetic counseling for inherited platelet disorders.",
-        "Avoid excessive alcohol consumption, as it can affect platelet function."
+        "म्येलोप्रोलिफेरेटिव नियोप्लाज्म सहित अंतर्निहित चिकित्सा स्थितियों का प्रबंधन और उपचार करें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में प्लेटलेट की संख्या बढ़ाने वाली दवाओं की निगरानी और प्रबंधन करें।",
+        "सूजन संबंधी विकारों का उपचार लें।",
+        "संक्रमणों को रोकें और पोस्ट-सर्जिकल देखभाल की सिफारिशों का पालन करें।",
+        "समग्र स्वास्थ्य की निगरानी के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "अत्यधिक रक्तस्राव को रोकने के लिए सुरक्षा उपायों का पालन करें।",
+        "आयरन की कमी वाले एनीमिया को नियंत्रित करें और संतुलित आहार बनाए रखें।"
       ]
+      ,
+      "Below Limit": [
+        "वायरल संक्रमण का कारण बन सकने वाले संक्रामक एजेंटों के संपर्क को कम करें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में प्लेटलेट की संख्या कम करने वाली दवाओं की निगरानी और प्रबंधन करें।",
+        "संतुलित आहार बनाए रखें और पोषक तत्वों की कमी को दूर करें",
+        "ऑटोइम्यून विकारों और अंतर्निहित चिकित्सा स्थितियों का उपचार लें।",
+        "चोटों को रोकने के लिए सुरक्षा उपायों का पालन करें जिससे रक्तस्राव हो सकता है",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत प्लेटलेट विकारों के लिए आनुवंशिक परामर्श।",
+        "अत्यधिक शराब का सेवन करने से बचें, क्योंकि यह प्लेटलेट के कार्य को प्रभावित कर सकता है।"
+      ]
+      
     }
   },
   "Mean Platelet Volume (MPV)": {
-    "What It Is": "MPV measures the average size of platelets in your blood.",
+    "What It Is": "MPV आपके रक्त में प्लेटलेट्स के औसत आकार को मापता है।",
     "Reference Values": {
       "males": {
         "0-17": {
@@ -754,56 +759,60 @@
       }
     },
     "Effects": {
-      "Above Limit": "High MPV may indicate inflammation or bone marrow disorders.",
-      "Below Limit": "Low MPV is not typically a concern."
+      "Above Limit": "उच्च MPV सूजन या अस्थि मज्जा विकार का संकेत दे सकता है।",
+      "Below Limit": "निम्न MPV आमतौर पर चिंता का विषय नहीं होता है।"
     },
     "Possible Causes": {
       "Above Limit": [
-        "Essential thrombocythemia (a bone marrow disorder)",
-        "Reactive thrombocytosis due to infections, inflammation, or surgery",
-        "Iron-deficiency anemia",
-        "Chronic myeloid leukemia",
-        "Polycythemia vera",
-        "Medications (e.g., steroids or epinephrine)",
-        "Splenectomy (removal of the spleen)",
-        "Inflammatory disorders (e.g., rheumatoid arthritis)",
-        "Myeloproliferative neoplasms",
-        "Hemorrhage or blood loss"
-      ],
-      "Below Limit": [
-        "Bone marrow disorders (e.g., aplastic anemia)",
-        "Leukemia and other blood cancers",
-        "Viral infections (e.g., HIV)",
-        "Chemotherapy and radiation therapy",
-        "Medications (e.g., certain antibiotics or anticonvulsants)",
-        "Autoimmune disorders (e.g., immune thrombocytopenic purpura)",
-        "Liver disease (cirrhosis)",
-        "Nutritional deficiencies (e.g., vitamin B12 or folate deficiency)",
-        "Inherited conditions (e.g., Wiskott-Aldrich syndrome)",
-        "Certain infections (e.g., hepatitis C)"
+        "आवश्यक थ्रोम्बोसाइटेमिया (एक अस्थि मज्जा विकार)",
+        "संक्रमण, सूजन या सर्जरी के कारण प्रतिक्रियाशील थ्रोम्बोसाइटोसिस",
+        "आयरन की कमी से होने वाला एनीमिया",
+        "क्रोनिक मायलॉयड ल्यूकेमिया",
+        "पॉलीसिथीमिया वेरा",
+        "दवाएं (उदाहरण के लिए, स्टेरॉयड या एपिनेफ्राइन)",
+        "स्प्लेनेक्टोमी (प्लीहा को हटाना)",
+        "सूजन संबंधी विकार (उदाहरण के लिए, रूमेटोइड गठिया)",
+        "मायलोप्रोलिफेरेटिव नियोप्लाज्म",
+        "रक्तस्राव या रक्त की कमी"
       ]
+      ,
+      "Below Limit": [
+        "अस्थि मज्जा विकार (उदाहरण के लिए, एप्लास्टिक एनीमिया)",
+        "ल्यूकेमिया और अन्य रक्त कैंसर",
+        "वायरल संक्रमण (उदाहरण के लिए, एचआईवी)",
+        "कीमोथेरेपी और विकिरण उपचार",
+        "दवाएं (उदाहरण के लिए, कुछ एंटीबायोटिक्स या एंटीकॉन्वेलसेंट्स)",
+        "ऑटोइम्यून विकार (उदाहरण के लिए, इम्यून थ्रोम्बोसाइटोपेनिक पुरपुरा)",
+        "यकृत रोग (सिरोसिस)",
+        "पोषक तत्वों की कमी (उदाहरण के लिए, विटामिन बी12 या फोलेट की कमी)",
+        "विरासत में मिली स्थितियां (उदाहरण के लिए, विस्कॉट-एल्ड्रिच सिंड्रोम)",
+        "कुछ संक्रमण (उदाहरण के लिए, हेपेटाइटिस सी)"
+      ]
+      
     },
     "Preventions": {
       "Above Limit": [
-        "Manage and treat underlying medical conditions, including myeloproliferative neoplasms.",
-        "Monitor and manage medications that can increase platelet counts under healthcare provider guidance.",
-        "Seek treatment for inflammatory disorders.",
-        "Prevent infections and follow post-surgical care recommendations.",
-        "Regular health checkups to monitor overall health.",
-        "Genetic counseling for inherited blood disorders.",
-        "Follow safety measures to prevent excessive bleeding.",
-        "Control iron-deficiency anemia and maintain a well-balanced diet."
-      ],
-      "Below Limit": [
-        "Minimize exposure to infectious agents that may cause viral infections.",
-        "Monitor and manage medications known to lower platelet counts under healthcare provider guidance.",
-        "Maintain a well-balanced diet and address nutritional deficiencies",
-        "Seek treatment for autoimmune disorders and underlying medical conditions.",
-        "Follow safety measures to prevent injuries that could lead to bleeding",
-        "Regular health checkups for early detection and management.",
-        "Genetic counseling for inherited platelet disorders.",
-        "Avoid excessive alcohol consumption, as it can affect platelet function."
+        "म्येलोप्रोलिफेरेटिव नियोप्लाज्म सहित अंतर्निहित चिकित्सा स्थितियों का प्रबंधन और उपचार करें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में प्लेटलेट की संख्या बढ़ाने वाली दवाओं की निगरानी और प्रबंधन करें।",
+        "सूजन संबंधी विकारों का उपचार लें।",
+        "संक्रमणों को रोकें और पोस्ट-सर्जिकल देखभाल की सिफारिशों का पालन करें।",
+        "समग्र स्वास्थ्य की निगरानी के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत रक्त विकारों के लिए आनुवंशिक परामर्श।",
+        "अत्यधिक रक्तस्राव को रोकने के लिए सुरक्षा उपायों का पालन करें।",
+        "आयरन की कमी वाले एनीमिया को नियंत्रित करें और संतुलित आहार बनाए रखें।"
       ]
+      ,
+      "Below Limit": [
+        "वायरल संक्रमण का कारण बन सकने वाले संक्रामक एजेंटों के संपर्क को कम करें।",
+        "स्वास्थ्य सेवा प्रदाता के मार्गदर्शन में प्लेटलेट की संख्या कम करने वाली दवाओं की निगरानी और प्रबंधन करें।",
+        "संतुलित आहार बनाए रखें और पोषक तत्वों की कमी को दूर करें",
+        "ऑटोइम्यून विकारों और अंतर्निहित चिकित्सा स्थितियों का उपचार लें।",
+        "चोटों को रोकने के लिए सुरक्षा उपायों का पालन करें जिससे रक्तस्राव हो सकता है",
+        "जल्दी पता लगाने और प्रबंधन के लिए नियमित स्वास्थ्य जांच।",
+        "वंशानुगत प्लेटलेट विकारों के लिए आनुवंशिक परामर्श।",
+        "अत्यधिक शराब का सेवन करने से बचें, क्योंकि यह प्लेटलेट के कार्य को प्रभावित कर सकता है।"
+      ]
+      
     }
   }
 },
